@@ -58,11 +58,8 @@ gulp.task('default', function() {
 
 Above code assumes following structure for css and scss:
 
-src
-  - Assets
-    -css
-    -scss
-      default.css
+![Alt text](/folder-structure.png?raw=true "Folder Structure for css and sass")
+
 
 For seeing the gulp in action, just go to terminal and type gulp. You can test live updating of scss to css and minification etc.
 
